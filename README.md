@@ -11,6 +11,7 @@ The program will select a random word from a given list of word and prompt the u
 
 ## Instructions of use
 
-To play fully functioning game, the user must run the python file "milestone_5.py". Running this python file without modification will use a list of words defined my the author while testing. To modify the selection of words, line 115 must be modified by the user.
+To play fully functioning game, the user must run the python file [`hangman.py`](hangman.py). Running this python file without modification will use a list of words defined my the author while testing. To modify the selection of words, `line 88` must be modified by the user.
 
-To observe the development of the project, python files "milestone_2.py", "milestone_3.py" and "milestone_4.py" contain the code used to develop the final outcome. The code in these files are bookmarked by the task number and description in comments.
+To observe the development of the project, python files [`milestone_2.py`](milestone_files/milestone_2.py), [`milestone_3.py`](milestone_files/milestone_3.py) and [`milestone_4.py`](milestone_files/milestone_4.py) contain the code used to develop the final outcome. The code in these files are bookmarked by the task number and description in comments.
+
